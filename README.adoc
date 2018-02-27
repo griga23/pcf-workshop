@@ -1,4 +1,4 @@
-= Pivotal Cloud Foundry101 Hands-on exercises and demos
+= Pivotal Cloud Foundry 101 Hands-on exercises and demos
 
 
 * Hands-on Workshop
