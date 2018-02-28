@@ -1,0 +1,5 @@
+/opt/devel/workshops/pcf-workshop/labs/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/web/CloudFoundryWorkshopController.java
+/opt/devel/workshops/pcf-workshop/labs/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/web/DataInitializer.java
+/opt/devel/workshops/pcf-workshop/labs/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/repository/AttendeeRepository.java
+/opt/devel/workshops/pcf-workshop/labs/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/entity/Attendee.java
+/opt/devel/workshops/pcf-workshop/labs/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/WorkshopApplication.java

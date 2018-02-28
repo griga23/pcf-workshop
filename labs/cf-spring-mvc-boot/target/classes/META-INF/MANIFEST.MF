@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: cdevarenne
+Build-Jdk: 9.0.1
+Implementation-Title: cf-spring-mvc-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.pivotal
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
