@@ -48,23 +48,20 @@ The web interface is built using bootstrap and Thymeleaf and uses a Spring contr
 ##5. Registry service
 This service provides a registry for our microservices to register with and dynamically find out where they live to make requests to them.
 
-This is currently implemented using the [Spring Cloud Netflix - Eureka](http://cloud.spring.io/spring-cloud-netflix/).
+This is currently implemented using the [Spring Cloud Netflix - Eureka](https://projects.spring.io/spring-cloud/).
 
 # Workshop:
 
 The following guides describe how to setup the environment and deploy the microservices to **Cloud Foundry**.
 
-At Pivotal we love education, not just educating ourselves, but also educating others. As such, these guides follow the *"teaching you how to fish"* principle - Rather than giving you line by line/command by command instructions, we provide guidelines and links to documentation where you can read and learn more.
+In this lab, instead of giving you line by line/command by command instructions, we provide guidelines and links to documentation where you can read and learn more.
 
-1. [Create the services] [userprovided]
-2. [Configure the services] [configureservices]
-3. [Build and Push the apps] [pushall]
 
-[setup]: docs/lab_setup.md
+[Setup]docs/lab_setup.md
 
-[userprovided]: docs/lab_userprovided.md
-[configureservices]: docs/configuration.adoc
-[pushquote]: docs/lab_pushquote.md
-[pushall]: docs/lab_pushall.adoc
-[scale]: docs/lab_scale.md
-[bluegreen]: docs/lab_bluegreen.md
+[Create the services]docs/lab_userprovided.md
+[Configure the services]docs/configuration.adoc
+[pushquote]docs/lab_pushquote.md
+[Build and Push the apps]docs/lab_pushall.adoc
+[Scale the app]docs/lab_scale.md
+[bluegreen deployment]docs/lab_bluegreen.md

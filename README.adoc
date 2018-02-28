@@ -12,7 +12,6 @@
 ** Session 3 - Advanced Labs
 *** link:labs/cf-docker/README.md[Advanced Lab - Deploying a dockerized Application]
 *** link:labs/pcf-dotnet-environment-viewer-master/README.md[Advanced Lab - Deploying a .NET Application]
-*** link:labs/cf-spring-trader/README.md[Advanced Lab - Spring Cloud Services, _**Java** Only_]
 
 * Demos
 ** PCF Dev: PAS on your laptop

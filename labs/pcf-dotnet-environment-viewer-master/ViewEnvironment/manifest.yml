@@ -1,7 +1,7 @@
 ---
 applications:
 - name: <YOUR INITIALS>-env
-  host: env-${random-word}
+  random-route: true
   memory: 512m
-  stack: windows2012R2
+  stack: windows2016
   buildpack: hwc_buildpack

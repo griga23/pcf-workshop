@@ -157,7 +157,7 @@ OK
 +
 ----
 $ cf events workshop
-Getting events for app workshop in org TELCO / space gammon as admin...
+Getting events for app workshop in org SomeOrg / space somespace as someone@pivotal.io...
 
 time                          event                 actor      description
 2015-08-11T09:01:35.00-0400   audit.app.update      admin      state: STOPPED
