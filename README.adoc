@@ -18,5 +18,4 @@
 ** Spring Boot
 *** Spring Initializr
 *** Spring Actuator
-** Spring Cloud Services if time
-** Pivotal Cloud Cache if time (PEZ)
+
