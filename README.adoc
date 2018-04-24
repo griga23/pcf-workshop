@@ -9,9 +9,6 @@
 ** Session 2 - Managing Your Application
 *** link:labs/lab04.adoc[Operating Your Application]
 *** link:labs/lab05.adoc[Monitoring Your Application]
-** Session 3 - Advanced Labs
-*** link:labs/cf-docker/README.md[Advanced Lab - Deploying a dockerized Application]
-*** link:labs/pcf-dotnet-environment-viewer-master/README.md[Advanced Lab - Deploying a .NET Application]
 
 * Demos
 ** PCF Dev: PAS on your laptop
