@@ -7,7 +7,7 @@
     "url": "http://chrisfrost.com"
   },
   "engines": {
-    "node": "9.6.x"
+    "node": "9.4.x"
   },
   "repository": {
     "type": "git",
